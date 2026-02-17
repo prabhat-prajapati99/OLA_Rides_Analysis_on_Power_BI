@@ -33,4 +33,4 @@ Third, focusing on high-demand vehicle types like bikes and sedans can improve r
 Fourth, maintaining high driver and customer ratings through training, support, and feedback systems will enhance overall service quality.
 Finally, continuous use of data analytics and dashboards will help management take faster and smarter business decisions.
 Overall, applying these suggestions can increase revenue, reduce cancellations, and improve customer satisfaction for better long-term growth.
-Sheet 1 => https://github.com/prabhat-prajapati99/OLA_Rides_Analysis/blob/main/01.png
+https://github.com/prabhat-prajapati99/OLA_Rides_Analysis/blob/main/01.png
