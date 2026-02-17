@@ -23,3 +23,13 @@ Vehicle-type analysis indicates that bike rides contribute the highest booking v
 Cancellation analysis highlights that rides are mainly cancelled due to driver delays, driver-initiated cancellations, and customer plan changes, showing the need for better driver management and communication.
 Ratings for both drivers and customers remain close to 4.0, which indicates good but improvable service quality.
 Overall, the project demonstrates how data visualization can convert raw ride data into useful business insights. These insights can help improve revenue, reduce cancellations, enhance customer experience, and support data-driven decision-making for future growth.
+
+# Suggestion – OLA Ride Analytics
+
+Based on the analysis of ride data from OLA, several improvements can help increase successful bookings and revenue.
+First, the company should reduce ride cancellations by improving driver availability, better route matching, and clear communication between drivers and customers.
+Second, since cash and UPI are the most used payment methods, digital payment offers and cashback rewards can encourage more online transactions.
+Third, focusing on high-demand vehicle types like bikes and sedans can improve ride completion rate and earnings.
+Fourth, maintaining high driver and customer ratings through training, support, and feedback systems will enhance overall service quality.
+Finally, continuous use of data analytics and dashboards will help management take faster and smarter business decisions.
+Overall, applying these suggestions can increase revenue, reduce cancellations, and improve customer satisfaction for better long-term growth.
